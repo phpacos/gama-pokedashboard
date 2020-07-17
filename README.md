@@ -47,7 +47,8 @@ $ git clone https://github.com/PedroSato/gama-pokedashboard
 ### Pré-requisitos :large_orange_diamond:
 
 - Editor de texto de sua preferência. (Aqui na Gama utilizamos o [VSCode](https://code.visualstudio.com))
-
+- Node.js >= v10
+- npm >= v6
 ### Criado por:
 
 - Equipe Gama Academy
