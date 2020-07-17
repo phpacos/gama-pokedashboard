@@ -24,6 +24,13 @@ Em seguida execute o comando:
 npm install
 ```
 
+e então execute o comando:
+```bash
+npm start
+```
+
+e prontinho seu projeto deverá estar rodando em localhost:3000 :)
+
 para instalar as dependências do projeto.
 
 ## Observações 📌
