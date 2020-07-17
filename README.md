@@ -44,6 +44,8 @@ No template temos a estrutura de um projeto React.js e um componente "Header" te
 $ git clone https://github.com/PedroSato/gama-pokedashboard
 ```
 
+Este projeto será seu, portanto fique a vontade para fazer as modificações que julgar necessárias para o projeto ter a sua cara. :)
+
 ### Pré-requisitos :large_orange_diamond:
 
 - Editor de texto de sua preferência. (Aqui na Gama utilizamos o [VSCode](https://code.visualstudio.com))
