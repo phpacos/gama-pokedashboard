@@ -20,8 +20,8 @@ Para conseguir utilizar o template faça o download do projeto ou clone este rep
 
 Em seguida execute o comando:
 
-```npm install
-
+```bash
+npm install
 ```
 
 para instalar as dependências do projeto.
