@@ -10,6 +10,7 @@ function App() {
       <Dashboard></Dashboard>
     </div>
     </>
+    
   );
 }
 
